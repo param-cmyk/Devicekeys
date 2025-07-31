@@ -15,6 +15,6 @@
         "device_id": "b27a70388a939006",
         "key": "karan",
         "expirydate": "15-06-2025",
-        "Allowoffline": false
+        "Allowoffline": true
             }
 ]
