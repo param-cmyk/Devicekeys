@@ -5,12 +5,7 @@
         "expirydate": "07-08-2025",
         "Allowoffline": true
     },
-    {
-        "device_id": "53676af838c528d7",
-        "key": "param123",
-        "expirydate": "15-09-2025",
-        "Allowoffline": true 
-    },
+    
     {
         "device_id": "b27a70388a939006",
         "key": "rathore",
