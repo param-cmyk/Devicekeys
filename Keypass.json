@@ -8,9 +8,9 @@
     
     {
         "device_id": "b27a70388a939006",
-        "key": "rathore",
+        "key": "rtr",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "53676af838c528d7",
