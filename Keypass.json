@@ -8,9 +8,9 @@
     },
     {
         "device_id": "53676af838c528d7",
-        "username": "a2",
-        "password": "A2123",
-        "expirydate": "15-12-2025",
+        "username": "1",
+        "password": "123",
+        "expirydate": "15-12-2030",
         "Allowoffline": false
     },
     {
@@ -22,8 +22,8 @@
     },
     {
         "device_id": "abc",
-        "username": "1",
-        "password": "A3123",
+        "username": "2",
+        "password": "123",
         "expirydate": "15-09-2030",
         "Allowoffline": false
     }
