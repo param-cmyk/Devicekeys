@@ -33,6 +33,13 @@
         "password": "123",
         "expirydate": "15-09-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5395fb668d4c80db",
+        "username": "user50",
+        "password": "123",
+        "expirydate": "15-09-2030",
+        "Allowoffline": false
     }
 
 ]
