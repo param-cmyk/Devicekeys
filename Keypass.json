@@ -71,14 +71,14 @@
     },
     {
         "device_id": "b27a70388a939006",
-        "username": "a1",
-        "password": "A123",
+        "username": "1",
+        "password": "123",
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
     {
         "device_id": "53676af838c528d7",
-        "username": "2",
+        "username": "1",
         "password": "123",
         "expirydate": "15-12-2030",
         "Allowoffline": false
