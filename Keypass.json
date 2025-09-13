@@ -1,5 +1,11 @@
 [
-    
+    {
+        "device_id": "afda3b0c550791c2",
+        "username": "gokul3",
+        "password": "123",
+        "expirydate": "13-10-2025",
+        "Allowoffline": false
+    }, 
      {
         "device_id": "3eb2657556610953",
         "username": "gokul2",
