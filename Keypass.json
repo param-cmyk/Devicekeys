@@ -111,13 +111,7 @@
         "expirydate": "10-10-2025",
         "Allowoffline": false
     },
-     {
-        "device_id": "fd195cbc2df11795",
-        "username": "Harsh",
-        "password": "123",
-        "expirydate": "10-10-2025",
-        "Allowoffline": false
-    },
+     
      {
         "device_id": "d03d19e9bb5ec52b",
         "username": "14",
