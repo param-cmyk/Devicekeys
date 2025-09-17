@@ -35,13 +35,7 @@
         "expirydate": "13-10-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "6c9f3f2c5152ceac",
-        "username": "aman",
-        "password": "123",
-        "expirydate": "13-10-2025",
-        "Allowoffline": false
-    }, 
+    
     {
         "device_id": "afda3b0c550791c2",
         "username": "gokul3",
