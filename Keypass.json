@@ -1,5 +1,11 @@
 [
-    
+    {
+        "device_id": "ef91b773e4121f89",
+        "username": "aru",
+        "password": "123",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "8b465bc15a841032",
         "username": "raghav",
